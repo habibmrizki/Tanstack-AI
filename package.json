@@ -31,6 +31,8 @@
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
     "react-markdown": "^10.1.0",
+    "react-syntax-highlighter": "^16.1.0",
+    "remark-gfm": "^4.0.1",
     "tailwind-merge": "^3.5.0",
     "tailwindcss": "^4.1.18"
   },
@@ -41,6 +43,7 @@
     "@types/node": "^22.10.2",
     "@types/react": "^19.2.0",
     "@types/react-dom": "^19.2.0",
+    "@types/react-syntax-highlighter": "^15.5.13",
     "@vitejs/plugin-react": "^5.0.4",
     "jsdom": "^27.0.0",
     "typescript": "^5.7.2",
